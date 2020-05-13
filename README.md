@@ -16,7 +16,7 @@
   <a href="https://discord.gg/Czjehbh">
     <img src="https://img.shields.io/static/v1?label=chat&message=on%20discord&color=738bd8&logo=discord" alt="Discord chat"/>
   </a>
-    <a href="https://stackshare.io/flowui">
+    <a href="https://stackshare.io/Sudo-UI/flowui">
     <img src="https://img.stackshare.io/misc/follow-on-stackshare-badge.svg" alt="StackShare"/>
   </a><br />
 </p>
